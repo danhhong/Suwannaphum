@@ -20,7 +20,7 @@ value = (
 );
 }
 );
-date = "2020-10-31 04:20:23 +0000";
+date = "2021-10-28 13:42:24 +0000";
 designer = "Danh Hong";
 designerURL = "http://www.nextspell.com";
 disablesAutomaticAlignment = 1;
@@ -128645,5 +128645,5 @@ period = -184;
 };
 unitsPerEm = 2048;
 versionMajor = 8;
-versionMinor = 0;
+versionMinor = 1;
 }
